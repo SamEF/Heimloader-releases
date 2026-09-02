@@ -60,7 +60,7 @@ Point Heimloader at your cookies by editing `%APPDATA%\Heimloader\settings.json`
 
 Heimloader checks for updates in the background and stages them silently. When one's ready, the footer
 shows **"New update ready - click to restart"** click it once your downloads have finished and you're
-on the latest version. No reinstalling, ever.
+on the latest version. No reinstalling needed.
 
 ## 🗑️ Uninstall
 
