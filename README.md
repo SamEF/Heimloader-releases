@@ -93,7 +93,6 @@ Most people never touch this. Advanced settings live in `appsettings.json` next 
 
 - Windows 10 or 11 (64-bit)
 - ~60 MB for the app, plus ~110 MB for its toolchain
-- Internet on first run (to fetch the toolchain) and for updates
 
 ## 🙏 Built with
 
