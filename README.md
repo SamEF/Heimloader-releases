@@ -22,7 +22,7 @@ does the rest.
 
 - **Paste a link, done.** No profiles, no command line just a URL and a folder.
 - **See it before you save it.** A live preview shows the thumbnail, title, duration, resolution and size.
-- **Pinterest, YouTube, TikTok — and ~1,800 more.** yt-dlp supports works through the generic path.
+- **YouTube, TikTok, Pinterest and ~1,800 more.** yt-dlp supports works through the generic path.
 - **A real queue.** Run several at once (configurable), and finished downloads jump to the top of the list.
 - **Clean progress.** Percentage and speed.
 - **Right-click anything** to play it, open its folder, copy the link or file path, remove it, or delete it.
