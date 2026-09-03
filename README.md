@@ -105,6 +105,6 @@ Heimloader stands on some open-source projects that are fetched at runtime:
 
 ## 📄 License
 
-© 2026 Heimwinz. All rights reserved. Heimloader is free to use but closed-source, and is provided as-is
+<div align="center">© 2026 Heimwinz. All rights reserved. Heimloader is free to use but closed-source, and is provided as-is
 without warranty. Please use it responsibly and respect the terms of service and copyright of the sites
-you download from.
+you download from.</div>
