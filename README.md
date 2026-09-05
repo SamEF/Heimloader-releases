@@ -14,7 +14,7 @@ does the rest.
 
 **[⬇ Download for Windows](https://github.com/SamEF/Heimloader-releases/releases/latest/download/Heimloader-win-Setup.exe)**
 
-![Heimloader](assets/heimloader.png)
+![Heimloader](https://64.media.tumblr.com/81bcc2a6810ca270aa7c9eeff0705c25/0e109a56a0e7d746-49/s1280x1920/595793890f9790947253bfe3d3df171d4c31b5fd.pnj)
 
 </div>
 
